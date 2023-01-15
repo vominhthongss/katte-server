@@ -8,17 +8,17 @@
             </button>
             <ul class="dropdown-menu dropdown-menu-right" role="menu">
 
-                <li><a href="/admin/sanpham/timtheoloai/Gia vị"
-                        class="select-field" data-field="fullname">Tìm gia vị</a>
+                <li><a href="/admin/sanpham/timtheoloai/Áo thun nữ"
+                        class="select-field" data-field="fullname">Tìm áo thun nữ</a>
                  </li>
-                <li><a href="/admin/sanpham/timtheoloai/Thức uống"
-                       class="select-field" data-field="fullname">Tìm thức uống</a>
+                <li><a href="/admin/sanpham/timtheoloai/Áo thun nam"
+                       class="select-field" data-field="fullname">Tìm áo thun nam</a>
                 </li>
-                <li><a href="/admin/sanpham/timtheoloai/Rau củ"
-                    class="select-field" data-field="fullname">Tìm rau củ</a>
+                <li><a href="/admin/sanpham/timtheoloai/Quần nữ"
+                    class="select-field" data-field="fullname">Tìm quần nữ</a>
                 </li>
-                <li><a href="/admin/sanpham/timtheoloai/Trái cây"
-                    class="select-field" data-field="fullname">Tìm trái cây</a>
+                <li><a href="/admin/sanpham/timtheoloai/Quần nam"
+                    class="select-field" data-field="fullname">Tìm quần nam</a>
                 </li>
             </ul>
         </div>

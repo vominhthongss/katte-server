@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Admin | Nông Sản ABC</title>
+	<title>Admin | Katte Shop</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
-	<link rel="icon" type="image/png" href="{{ asset('images/icons/logonongsan.png') }}"/>
+	<link rel="icon" type="image/png" href="{{ asset('images/icons/katteshop.png') }}"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}">
 <!--===============================================================================================-->
@@ -36,7 +36,7 @@
 					<span class="login100-form-title">
                         <i class="fa fa-paw">
                         </i>
-						Nông Sản ABC
+						Katte Shop
 					</span>
 
 					<div class="wrap-input100 validate-input m-b-16" data-validate="Please enter username">
@@ -81,7 +81,7 @@
                     <span class="login100-form-title">
                         <i >
                         </i>
-						Trang quản lý Nông Sản ABC
+						Trang quản lý Katte Shop
 					</span>
                     @csrf
                     @if ($message = Session::get('info'))

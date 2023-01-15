@@ -3,8 +3,8 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="{{ asset('images/icons/logonongsan.png') }}" type="image/png"/>
-<title>Admin | Nông Sản ABC</title>
+<link rel="icon" href="{{ asset('images/icons/katteshop.png') }}" type="image/png"/>
+<title>Admin | Katte Shop</title>
 <!-- Bootstrap -->
 <link href="{{ asset('asset/bootstrap/dist/css/bootstrap.min.css') }}" rel="stylesheet">
 <!-- Font Awesome -->

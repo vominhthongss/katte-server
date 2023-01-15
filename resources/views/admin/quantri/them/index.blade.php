@@ -13,7 +13,7 @@
                     <a href="index.html" class="site_title">
                         <i class="fa fa-paw">
                         </i>
-                        <span>Nông Sản ABC</span></a>
+                        <span>Katte Shop</span></a>
                 </div>
                 <div class="clearfix"></div>
                 <!-- menu profile quick info -->

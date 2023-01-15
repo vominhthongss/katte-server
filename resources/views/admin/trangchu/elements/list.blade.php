@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="x_panel">
-                <h1><img width="100" src="{{ asset('images/icons/logonongsan.png') }}" alt="">Trang quản lý của Nông Sản ABC</h1>
+                <h1><img width="100" src="{{ asset('images/icons/katteshop.png') }}" alt="">Trang quản lý của Katte Shop</h1>
                 <div class="x_title">
 
 
